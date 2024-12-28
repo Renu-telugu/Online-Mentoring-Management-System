@@ -26,7 +26,7 @@ A web-based application designed to manage mentoring activities efficiently, fac
     - Import the provided SQL scripts to set up the tables and data.
 4. Update the database connection details in the JDBC configuration files.
 5. Deploy the project on the Apache Tomcat server.
-6. Access the application in your browser at http://localhost:8080/Online-Mentoring-Management-System.
+6. Access the application in your browser.
 
 
 ### How It Works
