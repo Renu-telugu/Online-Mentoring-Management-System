@@ -28,7 +28,7 @@ A web-based application designed to manage mentoring activities efficiently, fac
 5. Deploy the project on the Apache Tomcat server.
 6. Access the application in your browser at http://localhost:8080/Online-Mentoring-Management-System.
 
-#### **7. How It Works**
+
 ### How It Works
 1. **Admins**: Manage users, including mentors and mentees, by adding or modifying details.
 2. **Mentors**: Submit periodic reports, answer queries from mentees, and provide personalized feedback.
